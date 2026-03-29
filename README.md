@@ -2,7 +2,7 @@
 
 # 🎙️ Raphael – Personal Voice Assistant
 
-> An intelligent desktop-based voice assistant that listens, understands, and performs tasks using voice commands.
+ An intelligent desktop-based voice assistant that listens, understands, and performs tasks using voice commands.
 
 ---
 
